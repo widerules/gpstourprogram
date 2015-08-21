@@ -1,0 +1,1 @@
+Application that allows a user to create or view a GPS guided tour. This application uses Points of Interest to display the tour.
